@@ -1,8 +1,11 @@
 <h1 align="center"><b>Hola, soy Jefferson</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+Front-End,;Estudiante+Ingeniería+Sistemas"></a>
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Desarrollo%20web%20y%20aplicaciones;Estudiante;Siempre%20aprendiendo%20cosas%20nuevas&font=Fira%20Code&center=true&width=440&height=45&color=f85c5e&vCenter=true&pause=1000&size=22" /></a>
 </p>
+
 
 
 <br>
