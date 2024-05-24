@@ -142,6 +142,6 @@
 
 <br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
+Basado de: [Abdul Khalid](https://github.com/0xabdulkhalid)
 
-Last Edited on: 24/05/2024
+Actualizado: 24/05/2024
